@@ -1,0 +1,9 @@
+E:\Workspace\GetHex\GetHex\bin\Release\GetHex.exe.config
+E:\Workspace\GetHex\GetHex\bin\Release\GetHex.exe
+E:\Workspace\GetHex\GetHex\bin\Release\GetHex.pdb
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.csprojResolveAssemblyReference.cache
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.Form1.resources
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.Properties.Resources.resources
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.csproj.GenerateResource.Cache
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.exe
+E:\Workspace\GetHex\GetHex\obj\x86\Release\GetHex.pdb

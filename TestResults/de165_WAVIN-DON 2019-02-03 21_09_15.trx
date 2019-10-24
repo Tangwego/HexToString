@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6b0cb5ae-e511-4480-8897-6d1a25a8ccfb" name="de165@WAVIN-DON 2019-02-03 21:09:15" runUser="WAVIN-DON\de165" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b78231c5-dc7a-4944-a6d1-1f0b1623e1c2">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="de165_WAVIN-DON 2019-02-03 21_09_15">
+      <DeploymentItem filename="E:\Workspace\GetHex\GetHex\bin\Debug\GetHex.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-02-03T21:09:15.9443707+08:00" queuing="2019-02-03T21:09:15.9753527+08:00" start="2019-02-03T21:09:15.9833461+08:00" finish="2019-02-03T21:09:16.5839775+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="formatHexStringTest" storage="e:\workspace\gethex\testproject1\bin\debug\testproject1.dll" id="0a34fa19-5088-1fb7-0aed-1850f32df5a8">
+      <Execution id="157da419-9f2d-4772-86ee-ddb6dd86b661" />
+      <TestMethod codeBase="E:/Workspace/GetHex/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.HexUtilsTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="formatHexStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0a34fa19-5088-1fb7-0aed-1850f32df5a8" executionId="157da419-9f2d-4772-86ee-ddb6dd86b661" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="157da419-9f2d-4772-86ee-ddb6dd86b661" testId="0a34fa19-5088-1fb7-0aed-1850f32df5a8" testName="formatHexStringTest" computerName="WAVIN-DON" duration="00:00:00.0208289" startTime="2019-02-03T21:09:15.9853445+08:00" endTime="2019-02-03T21:09:16.5689887+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="157da419-9f2d-4772-86ee-ddb6dd86b661">
+      <Output>
+        <StdOut>2 1</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
